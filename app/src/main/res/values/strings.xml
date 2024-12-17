@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Avaliacao</string>
+
+    <string name="grupo_produto_prompt">Grupo de Produto</string>
+    <string name="tipo_complemento_prompt">Tipo Complemento</string>
+
+
+</resources>
